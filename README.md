@@ -1,1 +1,2 @@
-# Logica2
+# Hileras
+Manejo de Strings en Java
